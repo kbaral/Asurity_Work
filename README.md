@@ -10,8 +10,10 @@ There are ten records in the database.
 
 ## Setup
 
-* Set up the API \ 
+Set up the API 
 After we download the folder.
+Go to that folder in the command line or 
+use VS Code to open the folder and press (ctrl + ~) to open the terminal
 
 ```csharp
 cd AddressBook
