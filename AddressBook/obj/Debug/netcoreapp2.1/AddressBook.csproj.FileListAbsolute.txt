@@ -1,0 +1,46 @@
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.deps.json
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.json
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.dev.json
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.dll
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.pdb
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cache
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cs
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfo.cs
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.dll
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.pdb
+C:\Users\aa05\Desktop\Sample\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.deps.json
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.json
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.dev.json
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.dll
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.pdb
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cache
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cs
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfo.cs
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.dll
+C:\Users\aa05\Desktop\Sample\asurity\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.pdb
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.deps.json
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.json
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.runtimeconfig.dev.json
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.dll
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\bin\Debug\netcoreapp2.1\AddressBook.pdb
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.AssemblyInfo.cs
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cache
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorAssemblyInfo.cs
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.dll
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.pdb
+C:\Users\Baral Bro\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp2.1\AddressBook.genruntimeconfig.cache
