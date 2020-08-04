@@ -20,8 +20,8 @@ Use the following command.
 ```csharp
 cd AddressBook
 dotnet restore
-dev-certs https --clean
-dev-certs https --trust
+dotnet dev-certs https --clean
+dotnet dev-certs https --trust
 dotnet run
 ```
 This will run the web api on the port https://localhost:5001/
